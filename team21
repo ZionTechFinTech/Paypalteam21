@@ -18,7 +18,8 @@ the command to use is "git clone." I just tried that now and it worked. I am edi
 AARON
 
 
-Team, I am making my contribution to his file and will push it back to the remote repository. To add to what Aaron stated, after cloning the repositoy it is best to create a branch in your local reposit then edit this file in the branch you created. Once done push it to the remote repository.
+Team, I am making my contribution to his file and will push it back to the remote repository. To add to what Aaron stated, after cloning the repositoy it is best to 
+create a branch in your local reposit then edit this file in the branch you created. Once done push it to the remote repository.
 
 CHARLES
 
@@ -27,3 +28,12 @@ bug removed!
 I am also taking a stab at this to see if I really understand what I am doing.
 Please wish me good luck!
 Abi Savage
+
+Abi we are in this together and as proactive and zealous as we are as a team, we will make this journey together.
+Hint
+From working area or dir to stagingArea we do git add
+git add <filename>  ====> for one or multiple files
+git add .        ===> the dot says add all here as in this directory. could be one or multiple files and this works well when you know what you are doing.
+git add --all    ===> all your files. 
+"It is wise to work smart"
+Quinta
