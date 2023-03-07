@@ -10,14 +10,13 @@ In IT, a bug refers to an error, fault, or flaw in any computer program or a har
 
 Always remember to initialize an empty repo before you start commiting or else fatal error.
 
-
-Git is a distributed control system used for versioning. It is used for tracking changes to files/codes; GitHub is a source code manager (SCM). 
-
 QUNITA
-
-
 
 Hello team, after Quinta created the repository for the team, she created this file for us all to pull, edit and push back. I tried unsuccessfully to 
  pull the file to my locap Repo but this was before I watched the vidoe Prof asked us to watch on Git summary. After watching the video, I saw that 
 the command to use is "git clone." I just tried that now and it worked. I am editing the file now and I will push it back for you all to see. Thank you
 AARON
+
+Team, I am making my contribution to his file and will push it back to the remote repository. To add to what Aaron stated, after cloning the repositoy it is best to create a branch in your local reposit then edit this file in the branch you created. Once done push it to the remote repository.
+
+CHARLES
